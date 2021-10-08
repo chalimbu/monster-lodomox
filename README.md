@@ -1,3 +1,7 @@
+this project is a replication of what is done in the course
+zero to mastery complete react developer 2021 and i believe is an 
+introduction projecto to react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
