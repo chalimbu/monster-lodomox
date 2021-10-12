@@ -7,4 +7,7 @@ npm install -g yarn
 # to dont have problems with cors
 google-chrome --disable-web-security
 
+#for deployment in githubpages
 yarn add gh-pages # github pages
+#add deploy,predeploy in package.json
+yarn deploy
